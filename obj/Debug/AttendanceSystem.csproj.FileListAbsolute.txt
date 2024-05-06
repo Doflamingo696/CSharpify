@@ -1,0 +1,17 @@
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.AssemblyReference.cache
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\AttendanceSystem.MainForm.resources
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\AttendanceSystem.LoginForm.resources
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\AttendanceSystem.Properties.Resources.resources
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.GenerateResource.cache
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\bin\Debug\AttendanceSystem.exe.config
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\bin\Debug\AttendanceSystem.exe
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\bin\Debug\AttendanceSystem.pdb
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\bin\Debug\MetroFramework.dll
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\Attendan.64016B0E.Up2Date
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\AttendanceSystem.exe
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\AttendanceSystem.pdb
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\AttendanceSystem.AddClassForm.resources
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\AttendanceSystem.AddStudentsForm.resources
+C:\Users\clarenz\Desktop\Build you first XamarinForms application\AttendanceSystem\obj\Debug\AttendanceSystem.RegisterForm.resources
